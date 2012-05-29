@@ -2,8 +2,8 @@
 //  DoneAppDelegate.h
 //  Done
 //
-//  Created by marcti on 2011/05/12.
-//  Copyright 2011 MiFone (Pty) Ltd.. All rights reserved.
+//  Created by Abdullah Md. Zubair on 2011/05/12.
+//  Copyright 2012 Raihan.. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

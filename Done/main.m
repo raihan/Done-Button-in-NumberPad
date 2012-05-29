@@ -2,8 +2,8 @@
 //  main.m
 //  Done
 //
-//  Created by marcti on 2011/05/12.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
+//  Created by Abdullah Md. Zubair on 2011/05/12.
+//  Copyright 2012 Raihan.. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
